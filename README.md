@@ -30,6 +30,7 @@ I love exploring new technologies and sharing knowledge with others!
 - PyTorch
 - Scikit-learn
 - Jupyter Notebook
+- Google Colab
 
 ### 📫 Let's Connect!
 Feel free to reach out if you want to collaborate or just chat about tech!
