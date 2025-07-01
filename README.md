@@ -7,10 +7,9 @@
 
 🌱 **Currently learning:** 
 - Natural Language Processing (NLP)
+- Transformers
+- RAG
 
-💼 **Projects I'm working on:**
-- [Project Name](#) - Brief description of the project.
-- [Another Project](#) - Brief description of another project.
 
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/arbaz-arshad-574427216/)
@@ -26,6 +25,8 @@ I love exploring new technologies and sharing knowledge with others!
 
 ### 🛠️ Technologies & Tools
 - Python
+- Dart
+- Flutter framework
 - TensorFlow
 - PyTorch
 - Scikit-learn
