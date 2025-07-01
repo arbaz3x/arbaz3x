@@ -1,15 +1,19 @@
 👋 **Hi, I’m [@arbaz3x](https://github.com/arbaz3x)**
 
 👀 **I’m interested in:**
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
+- Machine Learning / Deep learning
+- Mobile Application development (Flutter Framework)
+  
 
 🌱 **Currently learning:** 
 - Natural Language Processing (NLP)
 - Transformers
 - RAG
+- Chatbot design
 
+**Recent Projects**
+- [GitHub] https://github.com/arbaz3x/rasa_backend
+- 
 
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/arbaz-arshad-574427216/)
